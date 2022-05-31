@@ -61,9 +61,18 @@ Other        8 mins             ▒░░░░░░░░░░░░░░░
 ✅  Solved 157 issues last month     
 <!-- TODO-IST:END -->
 
+**My other GitHub accounts**        
+[@prathpatkar](https://github.com/prathpatkar)          
+[@prathpatkar-ency  ](https://github.com/prathpatkar-ency)       
+
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=2000prath&show_icons=true&theme=gotham" alt="prathameshpatkar" />
+**Personal**
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=2000prath&show_icons=true&theme=gotham&count_private=true" alt="prathameshpatkar" />
 
+**Others**
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prathpatkar&show_icons=true&theme=gotham&count_private=true" alt="prathameshpatkar" />
+     <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prathpatkar-ency&show_icons=true&theme=gotham&count_private=true" alt="prathameshpatkar" />
+       
 
