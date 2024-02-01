@@ -3,7 +3,7 @@
   <img align="left" alt="Prathamesh's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/prathpatkar/">
-  <img align="left" alt="Prathamesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Prathamesh's LinkedIN" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=2000prath)
